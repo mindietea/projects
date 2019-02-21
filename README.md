@@ -49,3 +49,8 @@ https://globalgamejam.org/2018/games/heritage-0
 A point-and-click, grow-a-mushroom, playforming minigame.
 
 https://globalgamejam.org/2017/games/shroom-world-code-name-new-unity-project
+
+## Other small projects
+
+Global Game Jam 2019 Singapore, "Mindy's Home": Part point-and-click home building, part resource-gathering RPG.
+Game Technology Unreal Engine Slime Game: A simple game that shows off shaders created in Unreal Engine. Run around and defeat slimes to acquire weapons with the essence of unique slimes.
