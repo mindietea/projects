@@ -1,5 +1,5 @@
 # projects
-A list of some of my significant projects
+A list of some of my significant projects. View only game dev related projects here: https://github.com/mindietea/game-dev-projects
 
 ## Virtual Reality RPG Game
 
