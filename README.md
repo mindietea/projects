@@ -1,8 +1,6 @@
 # projects
 A list of some of my significant projects. View only game dev related projects here: https://github.com/mindietea/game-dev-projects
 
-https://github.com/mindietea/SwordAndSorcery
-
 ## OpenGL Nature Project
 
 An interactive nature experience programmed using OpenGL and GLSL. The terrain is procedurally generated with Perlin noise. The user can move around the scene and also control the strength and direction of the wind that animates the grass. The water is shaded realistically with transparency and reflection of the skybox.
