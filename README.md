@@ -14,7 +14,18 @@ I worked on the wind animations, realistic water shading, and skyboxes.
 
 Made with C++ and GLSL.
 
-https://docs.google.com/presentation/d/1qE4qrkC24zm4t4PeofXETbA-o24iMPkr_XG9JMaaQOw/
+Demo videos can be found here: https://docs.google.com/presentation/d/1qE4qrkC24zm4t4PeofXETbA-o24iMPkr_XG9JMaaQOw/
+
+## CHIP-8 Emulator & Game
+
+An emulator for the CHIP-8 architecture made for writing and running simple games. It runs existing CHIP-8 games I was able to find online. I was also able to design and write a game using the CHIP-8 architecture that then runs on the emulator! There are options to set the pixel scaling and clock speed, since none is defined by the architecture.
+
+Created for my Computer Architecture Honors final project at UT Austin, where we proposed and implemented a project of our choice.
+
+Source code repo: https://github.com/mindietea/braveone/blob/master/pd.cpp
+(If you have Linux, you can try and follow the instructions in part 5 here to run the emulator and game: https://github.com/mindietea/braveone/blob/master/part2.txt#L10)
+
+(You can also read more about the CHIP-8 specification here: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 
 ## Face Feud
 
