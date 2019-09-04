@@ -1,14 +1,6 @@
 # projects
 A list of some of my significant projects. View only game dev related projects here: https://github.com/mindietea/game-dev-projects
 
-## Virtual Reality RPG Game
-
-A virtual reality RPG with a focus on finding a variety of weapons throughout the arena to slay monsters to fit your playstyle. Currently in-progress in a private GitHub repo.
-
-I played a large role in design and production management. I also programmed general game code, monster behavior and animations, and am working on a cool spell casting mechanic.
-
-Made with Unity, C#, SteamVR, and VRTK.
-
 https://github.com/mindietea/SwordAndSorcery
 
 ## OpenGL Nature Project
