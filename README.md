@@ -36,16 +36,6 @@ Made with Javascript and Microsoft's Emotion API.
 
 https://devpost.com/software/facefeud
 
-## Heritage - Global Game Jam 2018 Austin - 1st Place Winner
-
-Recycle your life and keep improving to defeat an ancient evil.
-
-I led design and storyboarding of the game idea. I also worked on programming the overall gameplay flow, UI, and player stats.
-
-Made with Unity2D and C#.
-
-https://globalgamejam.org/2018/games/heritage-0
-
 ## Shroom World - Global Game Jam 2017 Austin
 
 A point-and-click, grow-a-mushroom, playforming minigame.
