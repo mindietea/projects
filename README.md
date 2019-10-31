@@ -2,7 +2,7 @@
 
 A list of some of my significant projects.
 
-*View game dev related projects here: https://github.com/mindietea/game-dev-projects*
+_View game dev related projects here: https://github.com/mindietea/game-dev-projects_
 
 ## OpenGL Nature Project
 
